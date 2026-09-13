@@ -1,0 +1,4 @@
+Name: Alina Belano
+Program: BSIT
+Role: Student
+Interest: Software Development
